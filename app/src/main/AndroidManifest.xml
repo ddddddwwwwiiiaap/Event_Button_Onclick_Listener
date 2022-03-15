@@ -10,8 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EventButtonOnclickListener">
         <activity
+            android:name=".DaftarActivity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity
             android:name=".ActivityHasil"
-            android:exported="false"
             android:label="@string/label2"
             android:parentActivityName=".MainActivity" />
         <activity
@@ -19,7 +21,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
