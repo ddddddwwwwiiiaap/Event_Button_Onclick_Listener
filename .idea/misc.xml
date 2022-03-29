@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_class_nama.xml" value="0.12132725430597771" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_daftar.xml" value="0.1" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_hasil.xml" value="0.12132725430597771" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_home2.xml" value="0.12132725430597771" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_lihat_data.xml" value="0.11980749746707194" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_list_view_adapter.xml" value="0.12132725430597771" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/layout/item_listview.xml" value="0.11980749746707194" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/menu/menu.xml" value="0.15925925925925927" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/EventButtonOnclickListener/app/src/main/res/menu/popup_menu.xml" value="0.21296296296296297" />
       </map>
     </option>
   </component>
